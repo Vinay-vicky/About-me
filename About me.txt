@@ -10,7 +10,7 @@ My internship journey started as a Project Associate Trainee, and I was soon pro
 
 Beyond coding, I enjoy drawing and constantly seek new ways to blend creativity with technology. My portfolio showcases my projects and expertise, and I am always eager to learn and contribute to impactful tech solutions in IT department.  
 
-Key Skills: Python, Django, Flask, MERN Stack, Machine Learning, Web Development, Project Coordination  shjgdfjd
+Key Skills: Python, Django, Flask, MERN Stack, Machine Learning, Web Development, Project Coordination
 Interests: Innovation, Full-Stack Development, Data Science, UI/UX, Open-Source Contributions 
 
 for more information here is my portfolio : https://vinay-vicky.github.io/Portfolio---v0.1/
