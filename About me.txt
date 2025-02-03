@@ -1,15 +1,17 @@
 About Me  
 
-I am Vignesh, a passionate and results-driven Full-Stack Developer, currently working in the IT Department. With a strong foundation in Python Full-Stack Development and a growing expertise in the MERN Stack, I am committed to building innovative and scalable web applications.  
+I am Vignesh, a passionate and results-driven Full-Stack Developer, Im currently attending the training from Magicbus India Foundation in chennai. With a strong foundation in Python Full-Stack Development and a growing expertise in the MERN Stack, I am committed to building innovative and scalable web applications.  
 
 I hold a Master’s in Computer Applications (MCA) from SCSVMV University, where I successfully completed projects like Customer Churn Prediction & Analysis (Churn Guard) and an E-Learning platform (Tier Study). My projects reflect my strong problem-solving skills and my ability to integrate machine learning with web technologies.  
 
 I have also completed a Python Full-Stack internship at SkillVertex, where I worked with Flask and Django frameworks. Additionally, I have been actively enhancing my knowledge in MERN Stack by working on practical projects.  
 
-My professional journey started as a Project Associate Trainee, and I was soon promoted to Project Coordinator, leading multiple Edutech platform developments like TNPSC, NEET, JEE, UPSC, and other Central Exam sites. I effectively guided my team to complete projects efficiently within given timelines.  
+My internship journey started as a Project Associate Trainee, and I was soon promoted to Project Coordinator, leading multiple Edutech platform developments like TNPSC, NEET, JEE, UPSC, and other Central Exam sites. I effectively guided my team to complete projects efficiently within given timelines.  
 
-Beyond coding, I enjoy drawing and constantly seek new ways to blend creativity with technology. My portfolio showcases my projects and expertise, and I am always eager to learn and contribute to impactful tech solutions.  
+Beyond coding, I enjoy drawing and constantly seek new ways to blend creativity with technology. My portfolio showcases my projects and expertise, and I am always eager to learn and contribute to impactful tech solutions in IT department.  
 
-Key Skills: Python, Django, Flask, MERN Stack, Machine Learning, Web Development, Project Coordination  
-Interests: Innovation, Full-Stack Development, Data Science, UI/UX, Open-Source Contributions  
+Key Skills: Python, Django, Flask, MERN Stack, Machine Learning, Web Development, Project Coordination  shjgdfjd
+Interests: Innovation, Full-Stack Development, Data Science, UI/UX, Open-Source Contributions 
+
+for more information here is my portfolio : https://vinay-vicky.github.io/Portfolio---v0.1/
 
